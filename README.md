@@ -2,7 +2,7 @@
 ## My nickname is Harsh, Believe it!  
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/40/0f/00/400f007bade76022eb839fdbb5acf646.gif" width="500px">
+  <img src="https://i.pinimg.com/originals/40/0f/00/400f007bade76022eb839fdbb5acf646.gif" width="100%">
 </p>
 
 ---
@@ -37,5 +37,5 @@
 
 ### 😂 Random Programming Meme  
 <p align="center">
-  <img src="https://i.redd.it/pznv5wvpxypd1.gif" width="400px">
+  <img src="https://i.redd.it/pznv5wvpxypd1.gif" width="100%">
 </p>
