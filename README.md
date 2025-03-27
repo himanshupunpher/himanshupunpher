@@ -7,3 +7,8 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/himanshu-punpher-1ab3a4323)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/himanshupunpher)
+
+![Snake animation](https://github.com/himanshupunpher/himanshupunpher/blob/output/github-contribution-grid-snake.svg)
