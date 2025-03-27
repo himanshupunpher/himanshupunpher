@@ -1,6 +1,7 @@
 ## Hi there 👋
 ## My nickname is Harsh, Believe it!
 ![Pixel Animation](https://i.pinimg.com/originals/40/0f/00/400f007bade76022eb839fdbb5acf646.gif)
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshupunpher&show_icons=true&theme=radical)
 
 <!--
 **himanshupunpher/himanshupunpher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
