@@ -11,4 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/himanshu-punpher-1ab3a4323)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/himanshupunpher)
 
-![Snake animation](https://github.com/himanshupunpher/himanshupunpher/blob/output/github-contribution-grid-snake.svg)
+### 😂 Random Programming Meme
+<img src="https://i.redd.it/pznv5wvpxypd1.gif" width="400px">
+
