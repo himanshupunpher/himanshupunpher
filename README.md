@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## My nickname is Harsh, Believe it!
-![Pixel Animation](https://i.redd.it/pznv5wvpxypd1.gif)
+![Pixel Animation]([https://i.redd.it/pznv5wvpxypd1.gif](https://pin.it/7y2CQFfNy))
 
 <!--
 **himanshupunpher/himanshupunpher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
