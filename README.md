@@ -1,16 +1,41 @@
-## Hi there 👋
-## My nickname is Harsh, Believe it!
-![Pixel Animation](https://i.pinimg.com/originals/40/0f/00/400f007bade76022eb839fdbb5acf646.gif)
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshupunpher&show_icons=true&theme=radical)
-### 🚀 Tech Stack
-![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat&logo=esphome)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+## Hi there 👋  
+## My nickname is Harsh, Believe it!  
 
-### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/himanshu-punpher-1ab3a4323)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/himanshupunpher)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/40/0f/00/400f007bade76022eb839fdbb5acf646.gif" width="500px">
+</p>
 
-### 😂 Random Programming Meme
-<img src="https://i.redd.it/pznv5wvpxypd1.gif" width="400px">
+---
 
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshupunpher&show_icons=true&theme=radical" />
+</p>
+
+---
+
+### 🚀 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/-ESP32-black?style=flat&logo=esphome" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+</p>
+
+---
+
+### 📫 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/himanshu-punpher-1ab3a4323">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/himanshupunpher">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
+  </a>
+</p>
+
+---
+
+### 😂 Random Programming Meme  
+<p align="center">
+  <img src="https://i.redd.it/pznv5wvpxypd1.gif" width="400px">
+</p>
