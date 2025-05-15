@@ -7,13 +7,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshupunpher&show_icons=true&theme=radical" />
-</p>
-
----
-
 ### 🚀 Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/-ESP32-black?style=flat&logo=esphome" />
