@@ -1,9 +1,6 @@
 ## Hi there 👋  
-## My nickname is Harsh, Believe it!  
+## My nickname is Harsh!  
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/40/0f/00/400f007bade76022eb839fdbb5acf646.gif" width="100%">
-</p>
 
 ---
 
@@ -24,11 +21,4 @@
   <a href="https://github.com/himanshupunpher">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
   </a>
-</p>
-
----
-
-### 😂 Random Programming Meme  
-<p align="center">
-  <img src="https://i.redd.it/pznv5wvpxypd1.gif" width="100%">
 </p>
